@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an enthusiastic self-motivated guy who loves learning new things and has a solid foundation in coding, web development.
+
 
 
 ## 🌐 Socials:
